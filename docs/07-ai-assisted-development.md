@@ -21,7 +21,9 @@ AI 工具可以包括对话式助手、代码补全工具、AI Agent、自动化
 
 本文不要求所有项目采用特定 AI 产品、模型、提示词模板或自动化框架。项目应根据数据敏感程度、任务风险、工具能力和运行环境制定适当的使用边界。
 
-本文中的约束用语遵循 [`CONTRIBUTING.md`](../CONTRIBUTING.md) 中的统一定义。MUST、SHOULD、RECOMMENDED 和 MAY 的具体含义及例外处理原则以该指南为准；本文不另行定义或改变其约束强度。
+本文中的约束用语遵循 [`CONTRIBUTING.md`](../CONTRIBUTING.md) 中的统一定义。
+MUST、SHOULD、RECOMMENDED 和 MAY 的具体含义及例外处理原则以该指南为准；
+本文不另行定义或改变其约束强度。
 
 本文遵循以下基本原则：
 

@@ -23,7 +23,7 @@
 本仓库围绕以下八个主题建设。各主题文档目前均为草案（`Draft`），尚未正式采纳。
 
 | 主题 | 主要内容 |
-|---|---|
+| --- | --- |
 | [工程原则与架构决策](docs/01-engineering-principles-and-architecture.md) | 设计原则、架构权衡、复杂度控制与例外机制 |
 | [代码组织与职责边界](docs/02-code-organization-and-responsibility-boundaries.md) | 模块划分、SOLID、Action、Service、领域逻辑与依赖管理 |
 | [数据与安全](docs/03-data-and-security.md) | 环境隔离、数据保护、权限控制与破坏性操作防护 |
