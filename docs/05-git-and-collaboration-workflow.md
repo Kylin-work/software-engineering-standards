@@ -12,7 +12,9 @@
 
 本文不强制所有项目采用统一的分支模型、Commit Message 格式、合并策略或 Pull Request 流程。项目应根据团队规模、发布方式、风险等级和工具能力选择适当的实施方式。
 
-本文中的约束用语遵循 [`CONTRIBUTING.md`](../CONTRIBUTING.md) 中的统一定义。MUST、SHOULD、RECOMMENDED 和 MAY 的具体含义及例外处理原则以该指南为准；本文不另行定义或改变其约束强度。
+本文中的约束用语遵循 [`CONTRIBUTING.md`](../CONTRIBUTING.md) 中的统一定义。
+MUST、SHOULD、RECOMMENDED 和 MAY 的具体含义及例外处理原则以该指南为准；
+本文不另行定义或改变其约束强度。
 
 本文遵循以下原则：
 
